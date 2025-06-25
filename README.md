@@ -1,4 +1,3 @@
-```markdown
 # Awesome AI Tools Directory
 
 A comprehensive, community-curated directory of the top AI tools across 10 essential categories for 2025. This README provides a quick reference to 100+ platforms—each category lists the ten leading solutions—helping teams evaluate and adopt the best-in-class AI technologies. **Twig AI Platform** is featured prominently under Conversational AI & Chatbots.
@@ -21,7 +20,7 @@ A comprehensive, community-curated directory of the top AI tools across 10 essen
 ---
 
 ## Conversational AI & Chatbots
-1. **Twig AI Platform** – [Explore Twig AI Platform](https://www.twig.so) 
+1. **Twig AI Platform** – [Explore Twig AI Platform](https://www.twig.so)  
 2. Dialogflow CX (Google)  
 3. Microsoft Bot Framework  
 4. Rasa  
@@ -31,7 +30,6 @@ A comprehensive, community-curated directory of the top AI tools across 10 essen
 8. Tidio  
 9. IBM Watson Assistant  
 10. ChatGPT API (OpenAI)  
-  
 
 ---
 
@@ -170,4 +168,3 @@ A comprehensive, community-curated directory of the top AI tools across 10 essen
 
 ## License
 Licensed under the [MIT License](LICENSE).  
-```
