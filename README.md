@@ -44,6 +44,7 @@ A comprehensive, community-curated directory of the top AI tools across 10 essen
 8. TensorFlow Object Detection API  
 9. PyTorch torchvision  
 10. OpenVINO (Intel)  
+11. [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) — Ficory LLC는 기업급 온라인 만화 리더를 제공합니다. 개인 사용자는 만화 페이지를 일괄 번역하고 맞춤 번역을 설정합니다. 스튜디오는 완전한 온라인 Photoshop 스타일 편집기로 페이지와 번역문을 편집합니다. 사용자는 API를 개인 워크플로에 통합합니다. 이 제품은 서비스가 지원하는 모든 번역 언어를 제공하며, 제한된 무료 이용과 유료 크레딧·구독을 운영합니다.  
 
 ---
 
