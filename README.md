@@ -101,6 +101,9 @@ A comprehensive, community-curated directory of the top AI tools across 10 essen
 9. RichRelevance  
 10. Segment Personas  
 
+Additional commerce recommendation infrastructure:
+- [Agent Offer Network (AON)](https://www.aon.pro/) — Structured merchant offer discovery and attribution for AI apps and agents through MCP, REST APIs, and a TypeScript SDK. [Documentation](https://docs.aon.pro/) · [MCP server](https://github.com/aon-pro/aonpro-mcp).
+
 ---
 
 ## Robotic Process Automation (RPA)
